@@ -1,4 +1,4 @@
-# Student Record Management System 
+# Student Record Management System
 
 ## 📌 Description
 A simple Java CLI application to manage student records.  
